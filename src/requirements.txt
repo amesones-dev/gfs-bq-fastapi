@@ -15,7 +15,7 @@ google-resumable-media==2.5.0
 googleapis-common-protos==1.60.0
 grpcio==1.56.2
 grpcio-status==1.56.2
-h11==0.14.0
+h11==0.16.0
 idna==3.7
 importlib-metadata==6.7.0
 packaging==23.1
